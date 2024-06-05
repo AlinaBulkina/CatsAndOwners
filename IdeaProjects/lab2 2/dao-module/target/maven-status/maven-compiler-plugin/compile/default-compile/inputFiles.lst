@@ -1,0 +1,10 @@
+/Users/alinabulkina/IdeaProjects/lab2 2/dao-module/src/main/java/repositories/ICatRepo.java
+/Users/alinabulkina/IdeaProjects/lab2 2/dao-module/src/main/java/entity/User.java
+/Users/alinabulkina/IdeaProjects/lab2 2/dao-module/src/main/java/utils/SessionFactoryInstance.java
+/Users/alinabulkina/IdeaProjects/lab2 2/dao-module/src/main/java/models/Breed.java
+/Users/alinabulkina/IdeaProjects/lab2 2/dao-module/src/main/java/entity/Owner.java
+/Users/alinabulkina/IdeaProjects/lab2 2/dao-module/src/main/java/models/Color.java
+/Users/alinabulkina/IdeaProjects/lab2 2/dao-module/src/main/java/entity/Cat.java
+/Users/alinabulkina/IdeaProjects/lab2 2/dao-module/src/main/java/models/Role.java
+/Users/alinabulkina/IdeaProjects/lab2 2/dao-module/src/main/java/repositories/IUserRepo.java
+/Users/alinabulkina/IdeaProjects/lab2 2/dao-module/src/main/java/repositories/IOwnerRepo.java

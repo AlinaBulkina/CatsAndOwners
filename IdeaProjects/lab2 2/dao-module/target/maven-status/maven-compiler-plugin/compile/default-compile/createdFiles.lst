@@ -1,0 +1,10 @@
+repositories/IOwnerRepo.class
+models/Role.class
+models/Color.class
+entity/Cat.class
+models/Breed.class
+repositories/ICatRepo.class
+utils/SessionFactoryInstance.class
+entity/User.class
+entity/Owner.class
+repositories/IUserRepo.class
